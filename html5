@@ -1,11 +1,38 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title><h1>White Souls</h1>
-   </title>
-	</head>
-	<p>El proyecto White Souls es una pagina creada desde cero, la idea principal es convertir este sencillo codigo, en una pagina con todos los atributos funcionales que posee un pagina actual<br>ademas de esto aprovechando la herramienta github que le permite guardar la evolucion del desarrollo por medio de las versiones sin perder ni modificar los cambios en el codigo</p>
-	
-	<body>
-	</html>
-	
+  <head>
+    <meta charset="utf-8">
+    <title>Dark Souls</title>
+    <body>
+      <header>
+        <h1>DARK SOULS</h1>
+      </header>
+      <nav>
+        <ul>
+          <li>Inicio</li>
+          <li>Personajes
+            <ul>
+              <li>Sif</li>
+              <li>Artorias</li>
+             </ul>
+          <li>Extras</li>
+          </nav>
+        <img src="https://pbs.twimg.com/profile_images/537416243444072448/pHeXk5wP.jpeg">
+        <p><h4>Uno de los Cuatro Caballeros de Gwyn, Sir Artorias es un guerrero santo con una voluntad dura como el acero y una habilidad sin igual en combate. Cazaba Espectros Oscuros.
+
+Su espada estaba imbuida de poderosas bendiciones para poder enfrentarse a los sirvientes de la oscuridad. Pero se dice que estas bendiciones eran más fuertes cuando la espada era portada por Artorias.
+
+Su símbolo personal es un lobo, como se muestra en su anillo, y más tarde obtendría un compañero lobo llamado Sif, quién lo acompañaría hasta que este pereciera.</h4><p>
+        <section>
+          <article><h2><a href="http://es.darksouls.wikia.com/wiki/Caballero_Artorias" id="Artorias" class="Articulos" target="_blank"title="Su Historia">Su Historia</h2></a></article>
+          <article><h2>Espada</h2></article>
+          <article><h2><a href="http://darksouls.wikia.com/wiki/Set_of_Artorias" id="Armadura"class="Articulos"target="_blank"title="Set de Artorias">Armadura</h2></a></article>
+          </section>
+
+        <footer>
+          Copyright Marlon Muñoz
+        </footer>
+          
+   </body>
+  </head>
+</html>
